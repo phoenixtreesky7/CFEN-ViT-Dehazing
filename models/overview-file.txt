@@ -1,0 +1,37 @@
+#
+# --model_G
+
+#[using Intrinsic Image Decomposition]_[the vit model]_[fusion method of outputs from gvit and lvit]_[global vit downsampling scale]
+
+#+ [using Intrinsic Image Decomposition] -- iid: using Intrinsic Image Decomposition
+#                                                                   -- iidr: using Intrinsic Image Decomposition but only with Reflectance Image
+#                                                                   -- iids: using Intrinsic Image Decomposition but only with Shading Image
+#                                                                   -- iidn: not using Intrinsic Image Decomposition, i.e. dehazing from hazy image directly
+#+ [the vit model] -- hlgvit: using both of local and global vit
+#                             -- lvit: using only the local vit
+#                             -- gvit: using only the global vit (downsampling at the beging, and upsampling at the end of the model)0
+#                             -- vit: using conventional vit 
+#+ [fusion method] -- add: elemental addition
+#                               -- cat: concatenated
+#                               -- crs: basic transformer-like
+#+ [global vit downsampling scale] -- gd2: downsample scale 2
+#                                                         -- gd4: downsample scale 4
+
+#Total Model List:
+#-----------------------------
+# IMPORTANT ABLATION
+#-----------------------------
+#+ iid_hlgvit_crs_gd4 :   the final model of our work
+#+ iidr_hlgvit_crs_gd4 : only using Reflectance Image
+#+ iids_hlgvit_crs_gd4 : only using Shading Image
+#+ iidn_hlgvit_crs_gd4 : not using the IID
+#+ iid_lvit_crs_gd4 :       only using the local vit
+#+ iid_gvit_crs_gd4 :      only using the global vit
+#+ iid_vit_crs_gd4 :        only using the basic vit
+
+#-----------------------------------
+# LESS IMPORTANT ABLATION
+#-----------------------------------
+#+ iid_hlgvit_add_gd4 : using the elemental addition
+#+ iid_hlgvit_cat_gd4 : using the concatenated
+#+ iid_hlgvit_crs_gd2 : the global vit downsamples the input with scale 2

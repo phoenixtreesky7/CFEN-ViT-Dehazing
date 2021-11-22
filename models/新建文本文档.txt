@@ -1,0 +1,2 @@
+networks_iid_hlgvit_crs_gd4_cfs_v3 : for high-resolution
+networks_iid_hlgvit_crs_gd4_cfs_v5 : for localViT channal shink

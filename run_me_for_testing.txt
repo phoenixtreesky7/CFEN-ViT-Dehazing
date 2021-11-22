@@ -1,0 +1,23 @@
+
+
+
+RESIDE:
+
+python test.py --dataroot [Your testing data path] --name iid_hlgvit_crs_gd4_cfs_v3_reside --n_feats 24 --hidden_dim_ratio 4 --sb --out_all --which_epoch 32
+
+O-HAZE:
+
+python test.py --dataroot [Your testing data path] --name iid_hlgvit_crs_gd4_cfs_v3_ohaze --n_feats 24 --hidden_dim_ratio 4 --sb --out_all --which_epoch 20
+
+NH-HAZE:
+
+python test.py --dataroot [Your testing data path] --name iid_hlgvit_crs_gd4_cfs_v3_nhhaze --n_feats 24 --hidden_dim_ratio 4 --sb --out_all --which_epoch 20
+
+
+Daytime Real-World:
+
+python test.py --dataroot [Your testing data path] --name iid_hlgvit_crs_gd4_cfs_v3_daytime_realworld --n_feats 24 --hidden_dim_ratio 2 --sb --out_all 
+
+Nighttime:
+
+python test.py --dataroot [Your testing data path] --name iid_hlgvit_crs_gd4_cfs_v3_daytime_realworld --n_feats 24 --hidden_dim_ratio 2 --sb --out_all 
