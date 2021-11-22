@@ -5,7 +5,8 @@ Complementary Feature Enhanced Network with Vision Transformer for Image Dehazin
 
 
 # Test Your Datasets
-1. Download the pretained models: 
+1. Download the pretained models: [**Baidu Yun**](https://pan.baidu.com/s/1WTR4AM3j6Hdq4Whrt4j8FQ) **Passward**：cfen 
+
 2. Unzip them into the /checkpoints/xxx/;
 3. The test images should be put in \[your test data root\]/**hazy**/;
 4. Run the following commands:
