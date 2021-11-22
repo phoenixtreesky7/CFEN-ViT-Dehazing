@@ -39,16 +39,43 @@ Complementary Feature Enhanced Network with Vision Transformer for Image Dehazin
     
 # Results
 Hazy image
+
 ![Real-world Dehazing 0005_real_B](https://github.com/phoenixtreesky7/CFEN-ViT-Dehazing/blob/main/new_real_hazy_0005_real_B.png)
+
 Dehazing result (Ours)
+
 ![Real-world Dehazing 0005_fake_A](https://github.com/phoenixtreesky7/CFEN-ViT-Dehazing/blob/main/new_real_hazy_0005_fake_A.png)
 
-![Real-world Dehazing 0061_real_B](https://github.com/phoenixtreesky7/CFEN-ViT-Dehazing/blob/main/new_real_hazy_0061_real_B.png)![Real-world Dehazing 0061_fake_A](https://github.com/phoenixtreesky7/CFEN-ViT-Dehazing/blob/main/new_real_hazy_0061_fake_A.png)
+Hazy image
 
-![Real-world Dehazing 0005_real_B](https://github.com/phoenixtreesky7/CFEN-ViT-Dehazing/blob/main/new_real_hazy_0005_real_B.png)![Real-world Dehazing 0005_fake_A](https://github.com/phoenixtreesky7/CFEN-ViT-Dehazing/blob/main/new_real_hazy_0005_fake_A.png)
+![Real-world Dehazing 0061_real_B](https://github.com/phoenixtreesky7/CFEN-ViT-Dehazing/blob/main/new_real_hazy_0061_real_B.png)
 
-![Real-world Dehazing 0085_real_B](https://github.com/phoenixtreesky7/CFEN-ViT-Dehazing/blob/main/new_real_hazy_0085_real_B.png)![Real-world Dehazing 0085_fake_A](https://github.com/phoenixtreesky7/CFEN-ViT-Dehazing/blob/main/new_real_hazy_0085_fake_A.png)
+Dehazing result (Ours)
 
-![Real-world Dehazing 0128_real_B](https://github.com/phoenixtreesky7/CFEN-ViT-Dehazing/blob/main/new_real_hazy_0128_real_B.png)![Real-world Dehazing 0128_fake_A](https://github.com/phoenixtreesky7/CFEN-ViT-Dehazing/blob/main/new_real_hazy_0128_fake_A.png)
+![Real-world Dehazing 0061_fake_A](https://github.com/phoenixtreesky7/CFEN-ViT-Dehazing/blob/main/new_real_hazy_0061_fake_A.png)
+
+Hazy image
+
+![Real-world Dehazing 0005_real_B](https://github.com/phoenixtreesky7/CFEN-ViT-Dehazing/blob/main/new_real_hazy_0005_real_B.png)
+
+Dehazing result (Ours)
+
+![Real-world Dehazing 0005_fake_A](https://github.com/phoenixtreesky7/CFEN-ViT-Dehazing/blob/main/new_real_hazy_0005_fake_A.png)
+
+Hazy image
+
+![Real-world Dehazing 0085_real_B](https://github.com/phoenixtreesky7/CFEN-ViT-Dehazing/blob/main/new_real_hazy_0085_real_B.png)
+
+Dehazing result (Ours)
+
+![Real-world Dehazing 0085_fake_A](https://github.com/phoenixtreesky7/CFEN-ViT-Dehazing/blob/main/new_real_hazy_0085_fake_A.png)
+
+Hazy image
+
+![Real-world Dehazing 0128_real_B](https://github.com/phoenixtreesky7/CFEN-ViT-Dehazing/blob/main/new_real_hazy_0128_real_B.png)
+
+Dehazing result (Ours)
+
+![Real-world Dehazing 0128_fake_A](https://github.com/phoenixtreesky7/CFEN-ViT-Dehazing/blob/main/new_real_hazy_0128_fake_A.png)
 
 
