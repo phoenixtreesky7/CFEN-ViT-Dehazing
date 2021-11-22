@@ -1,6 +1,6 @@
 # CFEN-ViT-Dehazing
 
-Complementary Feature Enhanced Network with Vision Transformer for Image Dehazing
+**Complementary Feature Enhanced Network with Vision Transformer for Image Dehazing**
 
 
 
@@ -54,13 +54,6 @@ Dehazing result (Ours)
 
 ![Real-world Dehazing 0061_fake_A](https://github.com/phoenixtreesky7/CFEN-ViT-Dehazing/blob/main/new_real_hazy_0061_fake_A.png)
 
-Hazy image
-
-![Real-world Dehazing 0005_real_B](https://github.com/phoenixtreesky7/CFEN-ViT-Dehazing/blob/main/new_real_hazy_0005_real_B.png)
-
-Dehazing result (Ours)
-
-![Real-world Dehazing 0005_fake_A](https://github.com/phoenixtreesky7/CFEN-ViT-Dehazing/blob/main/new_real_hazy_0005_fake_A.png)
 
 Hazy image
 
