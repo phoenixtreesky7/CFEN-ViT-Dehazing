@@ -3,9 +3,12 @@
 **Complementary Feature Enhanced Network with Vision Transformer for Image Dehazing**
 
 
+This repository contains PyTorch code of our paper: Complementary Feature Enhanced Network with Vision Transformer for Image Dehazing
+
+
 
 # Test Your Datasets
-1. Download the pretained models: [**Baidu Yun**](https://pan.baidu.com/s/1WTR4AM3j6Hdq4Whrt4j8FQ) **Passward**：cfen 
+1. Download the pretained models: [**Baidu Yun**](https://pan.baidu.com/s/1WTR4AM3j6Hdq4Whrt4j8FQ), **Passward**：cfen 
 
 2. Unzip them into the /checkpoints/xxx/;
 3. The test images should be put in \[your test data root\]/**hazy**/;
@@ -31,7 +34,7 @@
     
     > python test.py --dataroot \[Your testing data root\] --name iid_hlgvit_crs_gd4_cfs_v3_daytime_realworld --n_feats 24 --hidden_dim_ratio 2 --sb --out_all 
     
-    5). **Real_world dehazing**
+    4). **Real_world dehazing**
     
     > python test.py --dataroot \[Your testing data root\] --name iid_hlgvit_crs_gd4_cfs_v3_daytime_realworld --n_feats 24 --hidden_dim_ratio 2 --sb --out_all 
     
