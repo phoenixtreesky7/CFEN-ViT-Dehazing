@@ -76,3 +76,7 @@ Dehazing result (Ours)
 ![Real-world Dehazing 0128_fake_A](https://github.com/phoenixtreesky7/CFEN-ViT-Dehazing/blob/main/new_real_hazy_0128_fake_A.png)
 
 
+# Citation
+If you find this code useful for your research, please cite the paper:
+
+Dong Zhao, Jia Li, Hongyu Li, Long Xu, "Hybrid Local-Global Transformer for Image Dehazing", [Arxiv](https://arxiv.org/abs/2109.07100v2)
