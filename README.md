@@ -79,4 +79,4 @@ Dehazing result (Ours)
 # Citation
 If you find this code useful for your research, please cite the paper:
 
-Dong Zhao, Jia Li, Hongyu Li, Long Xu, "Hybrid Local-Global Transformer for Image Dehazing", [Arxiv](https://arxiv.org/abs/2109.07100v2)
+Dong Zhao, Jia Li, Hongyu Li, Long Xu, "Complementary Feature Enhanced Network with Vision Transformer for Image Dehazing", [Arxiv](https://arxiv.org/abs/2109.07100)
