@@ -33,7 +33,7 @@ This repository contains PyTorch code of our paper: Complementary Feature Enhanc
     
     3). **Nighttime dehazing**
     
-    > python test.py --dataroot \[Your testing data root\] --name iid_hlgvit_crs_gd4_cfs_v3_daytime_realworld --n_feats 24 --hidden_dim_ratio 2 --sb --out_all 
+    > python test.py --dataroot \[Your testing data root\] --name iid_hlgvit_crs_gd4_cfs_v3_nighttime --n_feats 24 --hidden_dim_ratio 2 --sb --out_all 
     
     4). **Real_world dehazing**
     
